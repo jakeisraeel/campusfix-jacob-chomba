@@ -26,7 +26,14 @@ The system will support the process of:
 - Recording resolution.
 - Closing completed requests.
 
-Examples of problems that may be reported include broken computers, faulty projectors, laboratory lights that are not working, water leaks, and faulty classroom doors.
+Examples of problems that may be reported include:
+
+- Broken computers.
+- Faulty projectors.
+- Laboratory lights that are not working.
+- Water leaks.
+- Faulty classroom doors.
+- Other university facilities problems.
 
 ## 2. Users and Stakeholders
 
@@ -110,6 +117,21 @@ The system should support identifying recurring types of maintenance problems.
 
 The system should support monitoring maintenance response times.
 
+## 3.1 Initial System Increment
+
+The initial increment of CampusFix will focus on the core maintenance request process.
+
+The first working version should support:
+
+1. Reporting a maintenance problem.
+2. Recording the maintenance request.
+3. Assigning the request to responsible maintenance personnel.
+4. Tracking the request status.
+5. Recording the resolution.
+6. Closing the maintenance request.
+
+Further functionality can be added in later increments as the project develops.
+
 ## 4. Non-Functional Requirements
 
 Non-functional requirements describe qualities and constraints of the CampusFix system.
@@ -176,8 +198,8 @@ The basic CampusFix process is:
 1. A student or staff member reports a problem.
 2. The system records the request.
 3. The request is reviewed and prioritized.
-4. Maintenance personnel receive the request.
-5. The maintenance personnel handle the problem.
+4. The request is assigned to maintenance personnel.
+5. Maintenance personnel handle the problem.
 6. The request status is updated.
 7. The problem is marked as resolved when the work is completed.
 8. The request is closed.
@@ -199,10 +221,14 @@ The project must therefore be developed within the available semester time and r
 
 The system requirements may also be refined as the project progresses through analysis, design, implementation, testing, and feedback.
 
+The system will be developed progressively using the Incremental Model selected for the project.
+
 ## 10. Conclusion
 
 This Software Requirements Specification defines the initial requirements for CampusFix.
 
 The requirements describe the intended users, system purpose, functional capabilities, non-functional qualities, maintenance request information, and general process from reporting a problem through resolution and closure.
+
+The initial system increment will focus on the core maintenance request process.
 
 These requirements will provide a foundation for subsequent analysis, modelling, design, implementation, and testing of the CampusFix prototype.

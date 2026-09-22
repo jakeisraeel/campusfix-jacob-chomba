@@ -8,11 +8,21 @@ The system is intended to help university users report facility problems and all
 
 ## Student Information
 
-**Name:** Your Name
+**Name:** Jacob Chomba
 
-**Registration Number:** Your Registration Number
+**Registration Number:** SCT-253-007/2024
 
 **Course:** ICS 2314 Software Engineering
+
+## Development Process Model
+
+**Selected Model:** Incremental
+
+The Incremental Model was selected for CampusFix because the system can be developed progressively through small working versions.
+
+The core CampusFix requirements are already fairly well understood. These include reporting, assigning, tracking, and closing maintenance requests.
+
+Additional functionality can be added in later increments as the project develops.
 
 ## Project Structure
 
@@ -26,7 +36,7 @@ File:
 
 ### Week 2 — Process Model Justification
 
-The Week 2 document contains the selected software process model, its justification, and the project plan.
+The Week 2 document identifies the four process models, compares them, explains the selected Incremental Model, and provides the project plan through Week 5.
 
 File:
 
@@ -36,6 +46,8 @@ File:
 
 The Week 3 document contains the initial functional and non-functional requirements for CampusFix.
 
+It also identifies the initial system increment that will provide the core maintenance request process.
+
 File:
 
 `week3/srs-draft.md`
@@ -43,9 +55,9 @@ File:
 ## Project Progress
 
 - [x] Repository structure created
-- [ ] Week 1 — Problem Statement
-- [ ] Week 2 — Process Model Justification
-- [ ] Week 3 — SRS Draft
+- [x] Week 1 — Problem Statement
+- [x] Week 2 — Process Model Justification
+- [x] Week 3 — SRS Draft
 - [ ] Week 4
 - [ ] Week 5
 - [ ] Week 6
@@ -58,7 +70,15 @@ File:
 - [ ] Week 13
 - [ ] Week 14
 
+## Current Project Focus
+
+The first stages of CampusFix focus on:
+
+1. Understanding the maintenance reporting problem.
+2. Selecting an appropriate software process model.
+3. Defining the system requirements.
+4. Preparing the foundation for subsequent design and development.
+
 ## Repository
 
 This repository contains the progressive development evidence and documentation for the CampusFix software engineering project."# new-repo" 
-"# new-repo" 
